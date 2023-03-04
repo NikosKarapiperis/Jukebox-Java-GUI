@@ -20,7 +20,11 @@ Now, run `java -jar target/jukebox-1.0-SNAPSHOT.jar ` and you will see the GUI o
 
 ![Link to Screenshot from 2023-01-19 18-42-58](https://user-images.githubusercontent.com/92748811/222906951-a55347a5-b4cc-45a0-bcd4-91ebab5802d7.png)
 
-First of all, User should select **Select Folder** button or **Select m3u file** button
+First of all, User should select **Select Folder** button or **Select m3u file** button, for creating a list with mp3 files. If user chooses the **Select Folder** button, he should select a folder that contains the mp3 files that he wants to listen. If user chooses the **Select m3u file** button, he should select a m3u file that contains the mp3 files that he wants to listen. Now, user can select the mp3 file that he wants to listen by pressing the **Select Mp3** button.
+
+After all, he can listen a mp3 file by pressing the **Play** button, he can stop this mp3 file by pressing the **Stop** button and he can resume this mp3 file by pressing the **Resume** button, etc.
+
+
 
 
 
