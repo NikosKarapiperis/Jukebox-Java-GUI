@@ -20,6 +20,8 @@ Now, run `java -jar target/jukebox-1.0-SNAPSHOT.jar ` and you will see the GUI o
 
 ![Link to Screenshot from 2023-01-19 18-42-58](https://user-images.githubusercontent.com/92748811/222906951-a55347a5-b4cc-45a0-bcd4-91ebab5802d7.png)
 
+First of all, User should select **Select Folder** button or **Select m3u file** button
+
 
 
 
